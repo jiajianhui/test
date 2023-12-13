@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
                 .foregroundColor(.orange)
                 .fontWeight(.bold)
+            RoundedRectangle(cornerRadius: 20)
         }
         .padding()
     }
