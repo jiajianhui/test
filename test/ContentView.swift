@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("002oo000033oooooooo")
+            Text("002oo0000334oooooooo")
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
